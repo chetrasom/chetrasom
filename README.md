@@ -1,7 +1,6 @@
 ## Hello 👋, I'm Chetra
 
 <!-- I am **Self taught web developer** -->
-I am **Self taught web developer**
 - A passionate frontend developer
 - 🗃️ Working on multiple frontend project using javaScript.
 
